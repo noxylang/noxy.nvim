@@ -18,7 +18,7 @@ A simple and efficient syntax highlighting plugin for the Noxy programming langu
 
 ```lua
 {
-  "estevaofon/noxy.nvim",
+  "noxylang/noxy.nvim",
   ft = "noxy",  -- Lazy load on Noxy files
 }
 ```
@@ -27,7 +27,7 @@ A simple and efficient syntax highlighting plugin for the Noxy programming langu
 
 ```lua
 use {
-  "estevaofon/noxy.nvim",
+  "noxylang/noxy.nvim",
   ft = {"noxy"},
 }
 ```
@@ -35,7 +35,7 @@ use {
 ### Using [vim-plug](https://github.com/junegunn/vim-plug)
 
 ```vim
-Plug 'estevaofon/noxy.nvim'
+Plug 'noxylang/noxy.nvim'
 ```
 
 ## Usage
